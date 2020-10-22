@@ -1,9 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f191aa6-771b-4d29-ab74-2cf1c93cadee" name="Default Changelist" comment="Test in Run Class">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="2f191aa6-771b-4d29-ab74-2cf1c93cadee" name="Default Changelist" comment="Test in Run Class Aksel2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/worldofzuul/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/worldofzuul/Run.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +47,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Semesterprojekt---15.-Verdensm-l" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
     <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -77,12 +95,31 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../SemesterProjekt" />
+    </ignored-roots>
     <MESSAGE value="Zuul project upload test" />
     <MESSAGE value="Test in Run Class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test in Run Class" />
+    <MESSAGE value="Test in Run Class Aksel2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test in Run Class Aksel2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="522" y="237" key="#Notifications" timestamp="1603367569598">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="522" y="237" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1603367569598" />
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603355551651">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -99,30 +136,34 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="468" y="110" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1603364960549" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1603365330087">
+    <state width="746" height="211" key="GridCell.Tab.0.bottom" timestamp="1603367702356">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603365330087" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1603365330087">
+    <state width="746" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603367702356" />
+    <state width="746" height="211" key="GridCell.Tab.0.center" timestamp="1603367702356">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603365330087" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1603365330087">
+    <state width="746" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603367702356" />
+    <state width="746" height="211" key="GridCell.Tab.0.left" timestamp="1603367702355">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603365330087" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1603365330087">
+    <state width="746" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603367702355" />
+    <state width="746" height="211" key="GridCell.Tab.0.right" timestamp="1603367702356">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603365330087" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1603364910208">
+    <state width="746" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603367702356" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1603367824340">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603364910208" />
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603367824340" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603365093003">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603365093003" />
+    <state x="588" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603367759865">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="588" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1603367759865" />
     <state x="209" y="33" key="new project wizard" timestamp="1601288468047">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
