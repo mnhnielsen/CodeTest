@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f191aa6-771b-4d29-ab74-2cf1c93cadee" name="Default Changelist" comment="Zuul project upload test1.0" />
+    <list default="true" id="2f191aa6-771b-4d29-ab74-2cf1c93cadee" name="Default Changelist" comment="Test in Run Class">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../SemesterProjekt" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1i8TsXuvVCW2KVZOtnx8LyvMwq2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -25,8 +28,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SemesterProjekt" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Semesterprojekt---15.-Verdensm-l" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -64,53 +67,69 @@
       <option name="project" value="LOCAL" />
       <updated>1603357572478</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Test in Run Class">
+      <created>1603365048308</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603365048308</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Zuul project upload test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zuul project upload test" />
+    <MESSAGE value="Test in Run Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test in Run Class" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603355551651">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1603355551651" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1603364170330">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1603365328447">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603364170330" />
-    <state x="633" y="310" key="Github.ShareDialog" timestamp="1603357353243">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603365328447" />
+    <state x="633" y="310" width="410" height="231" key="Github.ShareDialog" timestamp="1603364954588">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="633" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1603357353243" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1603355650693">
+    <state x="633" y="310" width="410" height="231" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1603364954588" />
+    <state x="468" y="110" key="Github.UntrackedFilesDialog" timestamp="1603364960549">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603355650693" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1603355650693">
+    <state x="468" y="110" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1603364960549" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1603365330087">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603355650693" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1603355650693">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603365330087" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1603365330087">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603355650693" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1603355650693">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603365330087" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1603365330087">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603355650693" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1603364590318">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603365330087" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1603365330087">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603364590318" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603364187105">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603365330087" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1603364910208">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603364187105" />
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603364910208" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603365093003">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603365093003" />
     <state x="209" y="33" key="new project wizard" timestamp="1601288468047">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1601288468047" />
+    <state x="599" y="203" key="svn.repositoryBrowser" timestamp="1603365170619">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="599" y="203" key="svn.repositoryBrowser/0.0.1536.824@0.0.1536.824" timestamp="1603365170619" />
   </component>
 </project>
